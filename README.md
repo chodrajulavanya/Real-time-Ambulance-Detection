@@ -1,4 +1,4 @@
-# Real-time Object Detection using MediaPipe and OpenCV
+# Real-time Ambulance Detection using MediaPipe and OpenCV
 
 This Python script demonstrates real-time object detection using the MediaPipe framework and OpenCV. It captures frames from an IP camera stream, performs object detection on each frame, and displays the results with bounding boxes, labels, and scores.
 
